@@ -108,11 +108,11 @@ require (
 	github.com/projectdiscovery/ratelimit v0.0.88
 	github.com/projectdiscovery/rdap v0.9.0
 	github.com/projectdiscovery/sarif v0.1.0
-	github.com/projectdiscovery/tlsx v1.2.2
+	github.com/projectdiscovery/tlsx v1.3.2
 	github.com/projectdiscovery/uncover v1.2.1
 	github.com/projectdiscovery/useragent v0.0.108
 	github.com/projectdiscovery/utils v0.11.1
-	github.com/projectdiscovery/wappalyzergo v0.2.91
+	github.com/projectdiscovery/wappalyzergo v0.2.92
 	github.com/redis/go-redis/v9 v9.11.0
 	github.com/rs/zerolog v1.34.0
 	github.com/shurcooL/graphql v0.0.0-20230722043721-ed46e5a46466
@@ -325,8 +325,8 @@ require (
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
 	github.com/projectdiscovery/asnmap v1.1.1 // indirect
-	github.com/projectdiscovery/blackrock v0.0.1 // indirect
-	github.com/projectdiscovery/cdncheck v1.2.46 // indirect
+	github.com/projectdiscovery/blackrock v0.0.2 // indirect
+	github.com/projectdiscovery/cdncheck v1.2.47 // indirect
 	github.com/projectdiscovery/freeport v0.0.7 // indirect
 	github.com/projectdiscovery/ldapserver v1.0.2-0.20240219154113-dcc758ebc0cb // indirect
 	github.com/projectdiscovery/machineid v0.0.0-20250715113114-c77eb3567582 // indirect
